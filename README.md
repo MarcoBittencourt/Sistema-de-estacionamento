@@ -18,25 +18,6 @@ Python 3.x
 
 Módulo datetime para registrar datas e horários.
 
-🚀 Como executar
-Clone este repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/usuario/sistema-estacionamento.git
-Acesse a pasta do projeto:
-
-bash
-Copiar
-Editar
-cd sistema-estacionamento
-Execute o programa:
-
-bash
-Copiar
-Editar
-python estacionamento.py
 📖 Uso do sistema
 Ao executar o programa, o usuário verá um menu interativo com as opções:
 
@@ -47,9 +28,6 @@ Ao executar o programa, o usuário verá um menu interativo com as opções:
 5️⃣ Sair – Encerra o sistema.
 
 📷 Exemplo de execução
-markdown
-Copiar
-Editar
 Bem-vindo ao Sistema de Estacionamento
 Hoje são:
 12/08/2025
@@ -61,8 +39,8 @@ Escolha uma opção:
 3. Mostrar status
 4. Pagar
 5. Sair
-📅 Possíveis melhorias futuras
 
+📅 Possíveis melhorias futuras
 Cálculo automático do valor com base no tempo de permanência.
 Armazenamento dos dados em arquivo ou banco de dados.
 Interface gráfica.
